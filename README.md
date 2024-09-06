@@ -1,10 +1,5 @@
-# dxcalc
-using the digitalocean's code
-
-
-
-run guide:
-
-
-windows: open in PowerShell
-linux: terminal, python3 calculatordxn.py
+# dxcalc (archive)
+This branch is for the archives of the previous dxcalc version.
+Version on the archive:
+1. 1.0 original
+ 
